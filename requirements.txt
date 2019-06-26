@@ -1,0 +1,9 @@
+Django==2.2.2
+django-extensions==2.1.9
+pkg-resources==0.0.0
+pydotplus==2.0.2
+pygraphviz==1.5
+pyparsing==2.4.0
+pytz==2019.1
+six==1.12.0
+sqlparse==0.3.0
